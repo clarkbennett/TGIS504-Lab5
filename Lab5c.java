@@ -16,7 +16,7 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class Lab5a extends FragmentActivity implements OnMapReadyCallback {
+public class Lab5c extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
     private final static int MY_PERMISSIONS_FINE_LOCATION = 101;
